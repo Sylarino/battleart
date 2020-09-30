@@ -1,0 +1,26 @@
+body {
+    background-color: lightgrey;
+}
+
+nav {
+    background-color: darksalmon;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: inline-block;
+    color: ghostwhite;
+    padding: 1em 2em 1em 0;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: hotpink;
+}
