@@ -24,3 +24,16 @@ nav a {
 nav a:hover {
     color: hotpink;
 }
+
+header {
+    color: maroon;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family: fantasy;
+}
+
+header p {
+    font-family: monospace;
+    color: tomato;
+}
